@@ -1,4 +1,6 @@
-#include "nvs.h"
+#include "lib_nvs.h"
+
+#include "nvs_flash.h"
 
 void nvs_InitFlash()
 {
